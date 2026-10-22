@@ -10,6 +10,7 @@ I’m an electrical engineering student interested in the connection between fir
 |---|---|---|
 | [ESP32 MP3 Player](https://github.com/Iwetter/ESP32-MP3-Player) | Embedded C++, shared SPI display/storage, I2S audio, and button controls | Hardware project with firmware and photo |
 | [PWM Fan Controller](https://github.com/Iwetter/PWM-Fan-Controller) | 555 timing, MOSFET switching, prototyping, and circuit debugging | Circuit design and build report |
+| [MNIST FPGA Digit Recognizer](https://github.com/Iwetter/MNIST-FPGA-DE10) | Quantized VHDL neural network, VGA canvas, and PS/2 input | RTL and Quartus source; simulation project |
 | [EEG32](https://github.com/Iwetter/EEG32) | 32-channel acquisition board, hierarchical schematics, and PCB layout | KiCad design; bench validation pending |
 | [FPGA Switch Counter](https://github.com/Iwetter/FPGA-Switch-Counter-Game) | VHDL edge counters, memory-mapped I/O, and SCOMP interfaces | VHDL source subset; integration files pending |
 | [ESP32 Robotic Hand](https://github.com/Iwetter/ESP32-Robotic-Hand) | Parametric fingers, tendon routing, printable parts, and servo control | Printed index prototype; powered tests pending |
